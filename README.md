@@ -1,2 +1,2 @@
 # spartaglobal_css_intro
-Introduction to CSS
+## Introduction to CSS
